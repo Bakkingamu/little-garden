@@ -1,6 +1,9 @@
 .gradle
 /build/
-
+*/**/*.psd
+.idea
+/out/
+/run/
 # Ignore Gradle GUI config
 gradle-app.setting
 

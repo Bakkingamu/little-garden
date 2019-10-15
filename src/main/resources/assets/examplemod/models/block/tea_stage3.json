@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "examplemod:blocks/tex3"
+  }
+}
