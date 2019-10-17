@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "axis=y":  { "model": "littlegarden:cinnamon_log" },
+    "axis=z":   { "model": "littlegarden:cinnamon_log", "x": 90 },
+    "axis=x":   { "model": "littlegarden:cinnamon_log", "x": 90, "y": 90 },
+    "axis=none": { "model": "littlegarden:cinnamon_bark" }
+  }
+}

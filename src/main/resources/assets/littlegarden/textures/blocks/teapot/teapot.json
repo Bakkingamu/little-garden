@@ -1,0 +1,88 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "teapot_strip": "littlegarden:items/teapot_strip"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 5, 0, 5 ], 
+            "to": [ 11, 8, 11 ], 
+            "faces": {
+                "north": { "texture": "#teapot_strip", "uv": [ 0, 0, 3, 4 ] },
+                "east": { "texture": "#teapot_strip", "uv": [ 3, 0, 6, 4 ] },
+                "south": { "texture": "#teapot_strip", "uv": [ 9, 0, 6, 4 ] },
+                "west": { "texture": "#teapot_strip", "uv": [ 9, 0, 12, 4 ] },
+                "up": { "texture": "#teapot_strip", "uv": [ 12, 0, 16, 4 ] },
+                "down": { "texture": "#teapot_strip", "uv": [ 12, 0, 16, 4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 2, 1 ], 
+            "to": [ 9, 8, 3 ], 
+            "faces": {
+                "north": { "texture": "#teapot_strip", "uv": [ 0, 10, 2, 16 ] },
+                "east": { "texture": "#teapot_strip", "uv": [ 0, 10, 2, 16 ] },
+                "south": { "texture": "#teapot_strip", "uv": [ 0, 10, 2, 16 ] },
+                "west": { "texture": "#teapot_strip", "uv": [ 0, 10, 2, 16 ] },
+                "up": { "texture": "#teapot_strip", "uv": [ 0, 14, 2, 16 ] },
+                "down": { "texture": "#teapot_strip", "uv": [ 0, 14, 2, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 5, 11 ], 
+            "to": [ 9, 7, 14 ], 
+            "faces": {
+                "east": { "texture": "#teapot_strip", "uv": [ 0, 14, 3, 16 ] },
+                "south": { "texture": "#teapot_strip", "uv": [ 0, 14, 2, 16 ] },
+                "west": { "texture": "#teapot_strip", "uv": [ 0, 14, 3, 16 ] },
+                "up": { "texture": "#teapot_strip", "uv": [ 0, 13, 2, 16 ] },
+                "down": { "texture": "#teapot_strip", "uv": [ 0, 13, 2, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 6, 3 ], 
+            "to": [ 9, 8, 5 ], 
+            "faces": {
+                "east": { "texture": "#teapot_strip", "uv": [ 0, 14, 2, 16 ] },
+                "west": { "texture": "#teapot_strip", "uv": [ 0, 14, 2, 16 ] },
+                "up": { "texture": "#teapot_strip", "uv": [ 0, 14, 2, 16 ] }
+            }
+        }
+    ]
+}

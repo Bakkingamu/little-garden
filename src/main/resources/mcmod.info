@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "littlegarden",
+  "name": "Little Garden",
+  "description": "Simple mod which adds misc. foods and crops",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Bakkingamu/little-garden",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Bakkingamu"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

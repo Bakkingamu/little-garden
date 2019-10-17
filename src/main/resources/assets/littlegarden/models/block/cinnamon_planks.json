@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "all": "littlegarden:blocks/cinnamon_planks"
+  }
+}

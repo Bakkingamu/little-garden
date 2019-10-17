@@ -1,6 +1,7 @@
 .gradle
 /build/
 */**/*.psd
+*/**/*.model
 .idea
 /out/
 /run/

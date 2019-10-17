@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "littlegarden:blocks/cinnamon_wood",
+    "side": "littlegarden:blocks/cinnamon_bark"
+  }
+}
